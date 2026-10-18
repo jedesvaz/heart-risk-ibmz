@@ -1,0 +1,7 @@
+# Dataset: linked in the README instead of committed
+data/*.csv
+
+# Jupyter and Python artifacts
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
